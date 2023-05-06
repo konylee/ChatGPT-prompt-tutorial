@@ -1782,12 +1782,20 @@ Contributed by [@goeksu](https://github.com/goeksu) 由 [@goeksu](https://github
 
 >将英文单词转换为包括音标、中文翻译、英文释义、词根词源、助记和3个例句。中文翻译应以词性的缩写表示例如adj.作为前缀。如果存在多个常用的中文释义，请列出最常用的3个。3个例句请给出完整中文解释。注意如果英文单词拼写有小的错误，请务必在输出的开始，加粗显示正确的拼写，并给出提示信息，这很重要。请检查所有信息是否准确，并在回答时保持简洁，不需要任何其他反馈。第一个单词是“metroplitan”
 
-## 后记
+## 许可证
 
-本电子书所有内容整理来自网络，后期会不断持续跟进发展，如有重大更新会同步新版本更新，如有问题或什么意见，可加微信沟通反馈，发送：ChatGPT 咒语
+本项目使用 [MIT](https://opensource.org/licenses/MIT) 许可证。
 
-![ringyin二维码小-3298150](../../../../workspace/vscode-project/ringyin-blog/source/images/ringyin%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%B0%8F-3298150.png)
+## 说明
 
-感谢支持，获取完整版 EPUB  电子书，请关注下面微信公众号，发送：咒语
+本项目所有内容整理来自网络，后期会不断持续跟进发展，如有重大更新会同步新版本更新，如有问题或什么意见，可加微信沟通反馈，发送：ChatGPT 咒语
 
-![qrcode_for_gh_d3f163d2c9d7_258](../../../../workspace/vscode-project/ringyin-blog/source/images/qrcode_for_gh_d3f163d2c9d7_258-3296995.jpg)
+![ringyin二维码小-3298150](assets/ringyin%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%B0%8F-3298150.png)
+
+感谢支持，本项目咒语大全已制作成电子书，要获取完整版 EPUB 或 PDF 版本的电子书，请关注下面微信公众号，发送：咒语
+
+![qrcode_for_gh_d3f163d2c9d7_258](assets/qrcode_for_gh_d3f163d2c9d7_258-3296995.jpg)
+
+## star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ChatGPT-prompt-tutorial/ChatGPT-prompt-tutorial&type=Date)](https://star-history.com/#ChatGPT-prompt-tutorial/ChatGPT-prompt-tutorial&Date)
